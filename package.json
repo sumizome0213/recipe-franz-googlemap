@@ -1,0 +1,12 @@
+{
+  "id": "googlemap",
+  "name": "GoogleMap",
+  "version": "1.0.0",
+  "description": "GoogleMap",
+  "main": "index.js",
+  "author": "sumizome0213 <sakagami_syotaro@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https:/google.com/maps"
+  }
+}
